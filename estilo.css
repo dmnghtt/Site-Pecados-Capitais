@@ -1,0 +1,71 @@
+body{
+    font-family: 'Times New Roman', Times, serif;   
+    background-color: rgb(206, 206, 206);
+}
+
+h1#titulo {
+    text-align: center;
+    font-style: italic;
+}
+
+h2#quemsomos {
+    text-align: center;
+    font-style: italic;
+}
+
+div#video {
+    position: relative;
+    height: 80vh;
+    top: 30%;
+    left: 25%;
+    margin-top: 10px;
+}
+
+p#quemsomos {
+    font-size: 20px;
+    margin-top: 10;
+    text-align: center;
+}
+
+h1#campanhas {
+    font-style: italic;
+    margin-top: 70px;
+    text-align: center;
+}
+
+h2#animais {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+h1#campanhaagasalho {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+h2#agasalho {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+h2#doesangue {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+h2#campanhacancer {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+h2#campleite{
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
